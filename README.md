@@ -46,11 +46,3 @@ Eu gosto muito de ouvir e ler opiniões que me ajudam a aprender e evoluir, ent�
 📱 : [**Instagram**](https://www.instagram.com/arthurcastro_99/)
 
 💻 : [**Linkedin**](https://www.linkedin.com/in/arthur-castro-b70a02223/)
-
-## 🛠️ Baixe na sua casa
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-```
