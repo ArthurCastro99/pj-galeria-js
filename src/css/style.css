@@ -1,0 +1,40 @@
+.card {
+  background-color: #4d4d4d;
+  color: white;
+  padding: 2rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  text-align: left;
+  transition: 0.3s all ease-in;
+  animation: aparecer 1s ease-in normal;
+}
+
+.card:hover {
+  transform: translateX(0.5em);
+}
+
+@keyframes aparecer {
+  0% {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#buscar {
+  padding: 1rem 2rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+}
+
+.botao {
+  padding: 1rem 2rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+}
+
