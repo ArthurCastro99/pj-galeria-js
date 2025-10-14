@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="PT-br">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,9 +8,17 @@
   </head>
   <body>
     <input type="text" id="buscar" placeholder="Buscar usuario..." />
+    <button class="botao" id="limparHistorico">Limpar histórico</button>
+    <button class="botao" id="toggleTema">Alternar Tema</button>
+    <ul id="sugestoes"></ul>
+
+    <button class="botao" id="exportarFavoritos">Exportar Favoritos</button>
+    <button class="botao" id="copiarJSON">Copiar JSON</button>
+    <pre id="saidaExportacao"></pre>
 
     <button class="botao" id="limpar">Limpar Galeria</button>
     <button class="botao" id="recarregar">Recarregar Galeria</button>
+    <button class="botao" id="toggleFavoritos">Mostrar Favoritos</button>
 
     <main id="galeria"></main>
 

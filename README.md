@@ -8,12 +8,8 @@ Brigado por olha meu código isso me ajuda muito a ter um bom retorno em meus pr
 
 ## Sobre o Projeto
 
-Esse projeto fiz com auxílio de uma IA - Copilot da Microsoft.
-O projeto tem como objetivo fazer uma galeria de dados sobre usuários de uma [API](https://jsonplaceholder.typicode.com/users). Sendo possível fazer uma busca por nomes dentro dela, além disso disponibilizo três botões para utilizar durante ou depois da pesquisa, dois deles ao lado da barra de busca e outro dentro do card, no entanto todos para testes, respectivamente;
-
-- Limpar galeria
-- Recarregar dados da API
-- Mostrar detalhes do usuário
+Esse projeto fiz com auxílio de uma [IA - Copilot da Microsoft](https://copilot.microsoft.com/), [W3Schools](https://www.w3schools.com/) e [MDN](https://developer.mozilla.org/pt-BR/) .
+O projeto tem como objetivo fazer uma galeria de dados sobre usuários de uma [API](https://jsonplaceholder.typicode.com/users). Sendo possível fazer uma busca por nomes, limpar histórico de busca, alterar o tema claro para escuro e vice-versa, exportar os favoritados, copiar o JSON para a área de trasnferência, limpar galeria, recarregar galeria e mostrar favoritos;
 
 ## Tecnologias Utilizadas
 
